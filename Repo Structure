@@ -1,0 +1,20 @@
+yieldlens/
+│── contracts/
+│   ├── MockERC20.sol
+│   ├── YieldPool.sol
+│
+│── scripts/
+│   ├── deploy.js
+│
+│── frontend/
+│   ├── package.json
+│   ├── next.config.js
+│   ├── pages/
+│   │   ├── index.js
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── PoolCard.js
+│
+│── README.md
+│── hardhat.config.js
+│── package.json
